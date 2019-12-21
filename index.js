@@ -2,9 +2,9 @@ var sense = require("node-sense-hat");
 
 var Blynk = require("blynk-library");
 
-var wia = require('wia')('d_sk_RWDfGrxtnfzRLfzi2Qbkc4tD');
+var wia = require('wia')('XXXXXXXXXXXXXXXXX');
 
-var AUTH = 'X4aVzxFSitfuiWYICkTDQ-VH8_P9N7NP';
+var AUTH = 'XXXXXXXXXXXXXXXXXXXXXXX';
 
 var blynk = new Blynk.Blynk(AUTH);
 
