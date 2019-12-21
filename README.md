@@ -13,4 +13,6 @@ and there is a publisher and subscriber set up displaying the imformation proces
 just did two variations to demonstarte my knowledge on each.
 
 Twitter Account link: @Michael47706291
-YouTube link: 
+YouTube link:
+Wia account: https://dashboard.wia.io/spaces/spc_HMEfrJem/devices/dev_MmfC6pf9/overview
+I have also sent an email to the one listed in slack inviting you to view the anlaytics
