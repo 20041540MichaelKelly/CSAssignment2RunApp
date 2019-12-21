@@ -1,7 +1,7 @@
 var wia = require('wia')('XXXXXXXXXXXXXXXX');
 
 wia.events.subscribe({
-  device: 'dev_MmfC6pf9'
+  device: 'XXXXXXXXXXXXXXXX'
 }, function(event) {
   console.log(event);
 });
