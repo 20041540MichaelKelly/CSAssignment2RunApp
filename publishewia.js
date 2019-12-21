@@ -1,4 +1,4 @@
-var wia = require('wia')('d_sk_RWDfGrxtnfzRLfzi2Qbkc4tD');
+var wia = require('wia')('XXXXXXXXXXXXXXXX');
 
 wia.events.subscribe({
   device: 'dev_MmfC6pf9'
